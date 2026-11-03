@@ -1,0 +1,155 @@
+{
+  "codeTheme": "github",
+  "canvasInsertBehavior": "select",
+  "enableImageRecognition": true,
+  "imageMethodModel": "",
+  "recordTextSize": "sm",
+  "editorSourceWrap": true,
+  "primaryModel": "note-gen-chat",
+  "canvasGridGap": 20,
+  "canvasMinimapVisible": true,
+  "recordSaveTargetMode": "current",
+  "markDescModel": "note-gen-chat",
+  "rerankingModel": "",
+  "recordSortMode": "newest",
+  "showEditorStats": true,
+  "canvasGridVisible": true,
+  "giteaInstanceType": "gitea.com",
+  "githubCustomImageRepo": "",
+  "outlinePosition": "right",
+  "canvasManagerSortMode": "updated",
+  "editorViewMode": "visual",
+  "completionModel": "note-gen-chat",
+  "commitModel": "note-gen-chat",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "gitlabCustomUrl": "",
+  "agentSystemPromptExtension": "",
+  "jsdelivr": true,
+  "language": "简体中文",
+  "embeddingModel": "note-gen-embedding",
+  "showMobileEditorToolbar": true,
+  "editorModel": "",
+  "customThemeColors": {
+    "dark": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    },
+    "light": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    }
+  },
+  "showSourceLineNumbers": true,
+  "outlinePlacement": "editor",
+  "editorLineHeight": "comfortable",
+  "speechToTextMode": "auto",
+  "sttModel": "note-gen-free-note-gen-stt",
+  "canvasManagerViewMode": "grid",
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "audioModel": "",
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "textToSpeechMode": "auto",
+  "fixedRecordTagId": null,
+  "placeholderModel": "",
+  "fileManagerTextSize": "sm",
+  "editorContentWidth": "full",
+  "canvasWheelBehavior": "zoom",
+  "gitlabInstanceType": "gitlab.com",
+  "recordViewMode": "list",
+  "previewTheme": "github",
+  "enableOutline": false,
+  "canvasGridStyle": "dots",
+  "darkMode": "system",
+  "autoUpdate": true,
+  "giteaCustomUrl": "",
+  "canvasSnapToGrid": false,
+  "recordCompletionBehavior": "highlight",
+  "showEditorUndoRedo": true,
+  "canvasDefaultZoom": 1
+}
